@@ -12,4 +12,4 @@ Input: a=2, b=4, c=3
 Output: 3
 Explanation: 3 is median of 2,4,3.
 
-#### This repo contains my solution on this task.
+This repo contains my solution on this task.
