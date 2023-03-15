@@ -16,7 +16,6 @@ public class MedianTest {
     };
 
     public static int med(int a, int b, int c) {
-
         List<Integer> numbers = Arrays.asList(a, b, c);
         numbers.sort(INTEGER_COMPARATOR);
         System.out.println("В массиве: " + String.format("%s %s %s", a, b, c) + ", cреднее число: " + numbers.get(1));
